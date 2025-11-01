@@ -1,6 +1,0 @@
-D:\repos\Sistema contra incendios\Piso1\bin\Debug\Piso1.dll
-D:\repos\Sistema contra incendios\Piso1\bin\Debug\Piso1.pdb
-D:\repos\Sistema contra incendios\Piso1\obj\Debug\Piso1.csproj.AssemblyReference.cache
-D:\repos\Sistema contra incendios\Piso1\obj\Debug\Piso1.csproj.CoreCompileInputs.cache
-D:\repos\Sistema contra incendios\Piso1\obj\Debug\Piso1.dll
-D:\repos\Sistema contra incendios\Piso1\obj\Debug\Piso1.pdb
