@@ -40,8 +40,6 @@ namespace Mapa
             Console.WriteLine("|               |          (TG-01)           |                       |");
             Console.WriteLine("|               +----------------------------+                       |");
             Console.WriteLine("+--------------------------------------------------------------------+");
-            Console.WriteLine("| LEYENDA: (S) Sensor / (E) Entrada / (1) Historial                 |");
-            Console.WriteLine("+--------------------------------------------------------------------+");
             Console.ResetColor();
         }
 
@@ -62,12 +60,12 @@ namespace Mapa
             Console.WriteLine("|               |          (TG-02)           |                       |");
             Console.WriteLine("|               +----------------------------+                       |");
             Console.WriteLine("+--------------------------------------------------------------------+");
-            Console.WriteLine("| LEYENDA: (S) Sensor / (E) Entrada / (1) Historial                 |");
-            Console.WriteLine("+--------------------------------------------------------------------+");
+
             Console.ResetColor();
         }
     }
 }
+
 
 
 
