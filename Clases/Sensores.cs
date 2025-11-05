@@ -70,10 +70,12 @@ namespace Sensores
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
+                    Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
                     Console.ResetColor();
+                    Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
                 }
                 else if (temperatura >= 40)
                 {
@@ -158,10 +160,13 @@ namespace Sensores
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
+                    Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
+                    Console.WriteLine("SENSORES DE HUMO ACTIVADOS")
                     Console.ResetColor();
+                    Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
                 }
                 else if (temperatura >= 40)
                 {
@@ -194,6 +199,7 @@ namespace Sensores
         }
     }
 }
+
 
 
 
