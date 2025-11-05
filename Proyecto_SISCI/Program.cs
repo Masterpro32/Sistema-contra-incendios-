@@ -49,7 +49,6 @@ namespace Proyecto_SISCI
                 {
                     case 1:
                         Console.Clear();
-                        Mapa_edificio MAP = new Mapa_edificio();
                         MenuTurbo();
                         break;
                     case 2:
@@ -210,6 +209,7 @@ namespace Proyecto_SISCI
 
     }   
 }
+
 
 
 
