@@ -73,7 +73,7 @@ namespace Sensores
                     Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
+                    Console.WriteLine(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
                     Console.ResetColor();
                     Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
                 }
@@ -163,7 +163,7 @@ namespace Sensores
                     Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
+                    Console.WriteLine(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
                     Console.WriteLine("SENSORES DE HUMO ACTIVADOS")
                     Console.ResetColor();
                     Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
@@ -199,6 +199,7 @@ namespace Sensores
         }
     }
 }
+
 
 
 
