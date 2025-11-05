@@ -72,7 +72,6 @@ namespace Sensores
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
-                    Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.Write(" ⚠ ALARMA: EVACUAR");
@@ -200,4 +199,5 @@ namespace Sensores
         }
     }
 }
+
 
