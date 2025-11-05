@@ -1,0 +1,49 @@
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe.config
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.pdb
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.AssemblyReference.cache
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.CoreCompileInputs.cache
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.pdb
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Clases.dll
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Clases.pdb
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe.config
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.pdb
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Clases.dll
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Clases.pdb
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.AssemblyReference.cache
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe.config
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.CoreCompileInputs.cache
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.pdb
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Mapa.dll
+D:\repos\Proyecto_SISCI\Proyecto_SISCI\bin\Debug\Mapa.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe.config
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Clases.dll
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.dll
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Clases.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe.config
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.pdb
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.AssemblyReference.cache
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe.config
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.CoreCompileInputs.cache
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.pdb
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe.config
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.pdb
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Clases.dll
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.dll
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Clases.pdb
+D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.pdb
+D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date

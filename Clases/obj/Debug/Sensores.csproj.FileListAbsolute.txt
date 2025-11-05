@@ -1,0 +1,12 @@
+D:\repos\Proyecto_SISCI\Clases\bin\Debug\Clases.dll
+D:\repos\Proyecto_SISCI\Clases\bin\Debug\Clases.pdb
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Sensores.csproj.AssemblyReference.cache
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Sensores.csproj.CoreCompileInputs.cache
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.dll
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\bin\Debug\Clases.dll
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\bin\Debug\Clases.pdb
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\obj\Debug\Sensores.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\obj\Debug\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\obj\Debug\Clases.dll
+C:\Users\LENOVO\source\repos\Sistema-contra-incendios-\SCI-git\Clases\obj\Debug\Clases.pdb

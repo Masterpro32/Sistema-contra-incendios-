@@ -1,0 +1,12 @@
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\bin\Debug\Clases.dll
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\bin\Debug\Clases.pdb
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\obj\Debug\Clases.dll
+D:\PROGRAMACIÓN\PROYECTO HAROL SCI\Proyecto_SISCI\Clases\obj\Debug\Clases.pdb
+D:\repos\Proyecto_SISCI\Clases\bin\Debug\Clases.dll
+D:\repos\Proyecto_SISCI\Clases\bin\Debug\Clases.pdb
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.dll
+D:\repos\Proyecto_SISCI\Clases\obj\Debug\Clases.pdb
