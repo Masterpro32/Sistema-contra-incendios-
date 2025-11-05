@@ -51,8 +51,6 @@ namespace Sensores
                 Console.WriteLine("|               |          (TG-01)           |                       |");
                 Console.WriteLine("|               +----------------------------+                       |");
                 Console.WriteLine("+--------------------------------------------------------------------+");
-                Console.WriteLine("| LEYENDA: (S) Sensor / (E) Entrada / (2) Historial                 |");
-                Console.WriteLine("+--------------------------------------------------------------------+");
 
                 // Simula un cambio aleatorio de temperatura
                 int valorCambio = r.Next(-1, 6);
@@ -141,8 +139,6 @@ namespace Sensores
                 Console.WriteLine("|               |          (TG-02)           |                       |");
                 Console.WriteLine("|               +----------------------------+                       |");
                 Console.WriteLine("+--------------------------------------------------------------------+");
-                Console.WriteLine("| LEYENDA: (S) Sensor / (E) Entrada / (2) Historial                 |");
-                Console.WriteLine("+--------------------------------------------------------------------+");
 
                 // Simula un cambio aleatorio de temperatura
                 int valorCambio = r.Next(-1, 6);
@@ -199,5 +195,6 @@ namespace Sensores
         }
     }
 }
+
 
 
