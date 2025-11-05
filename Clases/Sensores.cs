@@ -30,7 +30,7 @@ namespace Sensores
             int temperatura = TempPreterminada; // temperatura base
             Console.ResetColor();
             Console.Clear();
-            Console.WriteLine("Monitoreo de temperatura (presiona ESC para regresar)");
+            Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
             Console.WriteLine("----------------------------------------------------");
 
             while (true)
@@ -118,7 +118,7 @@ namespace Sensores
             int temperatura = TempPreterminada; // temperatura base
             Console.ResetColor();
             Console.Clear();
-            Console.WriteLine("Monitoreo de temperatura (presiona ESC para regresar)");
+            Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
             Console.WriteLine("----------------------------------------------------");
 
             while (true)
@@ -194,6 +194,7 @@ namespace Sensores
         }
     }
 }
+
 
 
 
