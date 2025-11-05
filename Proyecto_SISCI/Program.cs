@@ -65,7 +65,7 @@ namespace Proyecto_SISCI
                         break;
                 }
             }
-            while (opcion != 3);
+            while (opcion != 2);
         }
         static void MenuTurbo()
         {
@@ -210,5 +210,6 @@ namespace Proyecto_SISCI
 
     }   
 }
+
 
 
