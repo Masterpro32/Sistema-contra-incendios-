@@ -1,6 +1,0 @@
-D:\repos\Proyecto_SISCI\Mapa\bin\Debug\Mapa.dll
-D:\repos\Proyecto_SISCI\Mapa\bin\Debug\Mapa.pdb
-D:\repos\Proyecto_SISCI\Mapa\obj\Debug\Mapa.csproj.AssemblyReference.cache
-D:\repos\Proyecto_SISCI\Mapa\obj\Debug\Mapa.csproj.CoreCompileInputs.cache
-D:\repos\Proyecto_SISCI\Mapa\obj\Debug\Mapa.dll
-D:\repos\Proyecto_SISCI\Mapa\obj\Debug\Mapa.pdb
