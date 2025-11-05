@@ -72,7 +72,7 @@ namespace Sensores
                 {
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.Write(" ⚠ ALARMA: EVACUAR");
+                    Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
                     Console.ResetColor();
                 }
                 else if (temperatura >= 40)
@@ -158,10 +158,9 @@ namespace Sensores
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
-                    Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.Write(" ⚠ ALARMA: EVACUAR");
+                    Console.Write(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
                     Console.ResetColor();
                 }
                 else if (temperatura >= 40)
@@ -195,6 +194,7 @@ namespace Sensores
         }
     }
 }
+
 
 
 
