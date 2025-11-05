@@ -4,7 +4,7 @@ namespace Mapa
 {
     public class Mapa_edificio
     {
-        // 🏢 Dibuja el mapa general del edificio
+        // Dibuja el mapa general del edificio
         public void Mapa_general()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -23,7 +23,7 @@ namespace Mapa
             Console.ResetColor();
         }
 
-        // 🔧 Dibuja el plano del Sector A
+        // Dibuja el plano del Sector A
         public void sectorA()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -45,7 +45,7 @@ namespace Mapa
             Console.ResetColor();
         }
 
-        // 🔧 Dibuja el plano del Sector B
+        // Dibuja el plano del Sector B
         public void sectorB()
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -68,5 +68,6 @@ namespace Mapa
         }
     }
 }
+
 
 
