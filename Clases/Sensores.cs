@@ -56,9 +56,11 @@ namespace Sensores
 
                 // Simula un cambio aleatorio de temperatura
                 int valorCambio = r.Next(-1, 6);
-                temperatura += valorCambio;
-                if (temperatura < 15) temperatura = 15;
-                if (temperatura > 70) temperatura = 70;
+                temperatura = temperatura + valorCambio;
+                if (temperatura < 15) 
+                {
+                    temperatura = 15; //Limita la temperatura por si disminuye demasiado
+                }
 
                 // Muestra siempre en la misma posición
                 Console.SetCursorPosition(0, 2);
@@ -145,9 +147,11 @@ namespace Sensores
 
                 // Simula un cambio aleatorio de temperatura
                 int valorCambio = r.Next(-1, 6);
-                temperatura += valorCambio;
-                if (temperatura < 15) temperatura = 15;
-                if (temperatura > 70) temperatura = 70;
+                temperatura = temperatura + valorCambio;
+                if (temperatura < 15) 
+                {
+                    temperatura = 15; //Limita la temperatura por si disminuye demasiado
+                }
 
                 // Muestra siempre en la misma posición
                 Console.SetCursorPosition(0, 2);
@@ -196,4 +200,4 @@ namespace Sensores
         }
     }
 }
-
+
