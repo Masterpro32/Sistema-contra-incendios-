@@ -160,7 +160,6 @@ namespace Proyecto_SISCI
         }
             static void HistorialA() 
             {
-            Sensores_edificio SEN = new Sensores_edificio();
             do
             { 
             Console.WriteLine("Seleccione una opción:\n(0)Regresar\n(1)Borrar Historial");
@@ -183,7 +182,6 @@ namespace Proyecto_SISCI
         }
             static void HistorialB()
             {
-                Sensores_edificio SEN = new Sensores_edificio();
                 do
                 {
                     Console.WriteLine("Seleccione una opción:\n(0)Regresar\n(1)Borrar Historial");
@@ -209,6 +207,7 @@ namespace Proyecto_SISCI
 
     }   
 }
+
 
 
 
