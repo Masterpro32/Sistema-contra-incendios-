@@ -16,3 +16,9 @@ D:\repos\sci-2\Clases\obj\Debug\Sensores.csproj.AssemblyReference.cache
 D:\repos\sci-2\Clases\obj\Debug\Sensores.csproj.CoreCompileInputs.cache
 D:\repos\sci-2\Clases\obj\Debug\Clases.dll
 D:\repos\sci-2\Clases\obj\Debug\Clases.pdb
+C:\Users\LENOVO\Downloads\Practica\Clases\bin\Debug\Clases.dll
+C:\Users\LENOVO\Downloads\Practica\Clases\bin\Debug\Clases.pdb
+C:\Users\LENOVO\Downloads\Practica\Clases\obj\Debug\Sensores.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Practica\Clases\obj\Debug\Sensores.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Practica\Clases\obj\Debug\Clases.dll
+C:\Users\LENOVO\Downloads\Practica\Clases\obj\Debug\Clases.pdb

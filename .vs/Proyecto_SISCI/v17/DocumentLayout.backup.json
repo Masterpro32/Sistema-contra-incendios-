@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\sci-2\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{488A4912-B400-467A-ADBA-88A8A07DA899}|Clases\\Sensores.csproj|D:\\repos\\sci-2\\clases\\sensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{488A4912-B400-467A-ADBA-88A8A07DA899}|Clases\\Sensores.csproj|c:\\users\\lenovo\\downloads\\practica\\clases\\sensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{488A4912-B400-467A-ADBA-88A8A07DA899}|Clases\\Sensores.csproj|solutionrelative:clases\\sensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A14F342-3759-4F6E-A6CC-D87278FFD937}|Proyecto_SISCI\\Proyecto_SISCI.csproj|d:\\repos\\sci-2\\proyecto_sisci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A14F342-3759-4F6E-A6CC-D87278FFD937}|Proyecto_SISCI\\Proyecto_SISCI.csproj|solutionrelative:proyecto_sisci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42A24376-E77E-4CAB-ABF2-BE906DB77575}|Mapa\\Mapa.csproj|C:\\Users\\LENOVO\\Downloads\\Practica\\mapa\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A24376-E77E-4CAB-ABF2-BE906DB77575}|Mapa\\Mapa.csproj|solutionrelative:mapa\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42A24376-E77E-4CAB-ABF2-BE906DB77575}|Mapa\\Mapa.csproj|D:\\repos\\sci-2\\mapa\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42A24376-E77E-4CAB-ABF2-BE906DB77575}|Mapa\\Mapa.csproj|solutionrelative:mapa\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A14F342-3759-4F6E-A6CC-D87278FFD937}|Proyecto_SISCI\\Proyecto_SISCI.csproj|C:\\Users\\LENOVO\\Downloads\\Practica\\proyecto_sisci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A14F342-3759-4F6E-A6CC-D87278FFD937}|Proyecto_SISCI\\Proyecto_SISCI.csproj|solutionrelative:proyecto_sisci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,38 +26,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Mapa.cs",
-              "DocumentMoniker": "D:\\repos\\sci-2\\Mapa\\Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Practica\\Mapa\\Mapa.cs",
               "RelativeDocumentMoniker": "Mapa\\Mapa.cs",
-              "ToolTip": "D:\\repos\\sci-2\\Mapa\\Mapa.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Practica\\Mapa\\Mapa.cs",
               "RelativeToolTip": "Mapa\\Mapa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T04:18:49.168Z"
+              "WhenOpened": "2025-11-09T04:18:49.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\sci-2\\Proyecto_SISCI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Practica\\Proyecto_SISCI\\Program.cs",
               "RelativeDocumentMoniker": "Proyecto_SISCI\\Program.cs",
-              "ToolTip": "D:\\repos\\sci-2\\Proyecto_SISCI\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Practica\\Proyecto_SISCI\\Program.cs",
               "RelativeToolTip": "Proyecto_SISCI\\Program.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAAAL8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T04:18:47.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T04:18:47.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Sensores.cs",
-              "DocumentMoniker": "D:\\repos\\sci-2\\Clases\\Sensores.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Practica\\Clases\\Sensores.cs",
               "RelativeDocumentMoniker": "Clases\\Sensores.cs",
-              "ToolTip": "D:\\repos\\sci-2\\Clases\\Sensores.cs",
-              "RelativeToolTip": "Clases\\Sensores.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwEoAAABhAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Practica\\Clases\\Sensores.cs*",
+              "RelativeToolTip": "Clases\\Sensores.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T04:18:44.931Z",
               "EditorCaption": ""

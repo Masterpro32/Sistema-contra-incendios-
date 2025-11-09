@@ -104,15 +104,6 @@ namespace Sensores
                         break;
                     }
                 }
-                if (Console.KeyAvailable)
-                {
-                    var key = Console.ReadKey(true);
-                    if (key.Key == ConsoleKey.D2)
-                    {
-                        RegistroDeTemperaturas();
-                        break;
-                    }
-                }
 
                 Thread.Sleep(700); // actualiza cada 0.7 segundos
             }
