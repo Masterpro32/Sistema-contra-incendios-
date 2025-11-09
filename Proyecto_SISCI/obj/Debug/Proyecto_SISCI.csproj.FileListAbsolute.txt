@@ -47,3 +47,16 @@ D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.dll
 D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Clases.pdb
 D:\repos\SCI-git\Proyecto_SISCI\bin\Debug\Mapa.pdb
 D:\repos\SCI-git\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe.config
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.exe
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Proyecto_SISCI.pdb
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Clases.dll
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Mapa.dll
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Clases.pdb
+D:\repos\sci-2\Proyecto_SISCI\bin\Debug\Mapa.pdb
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.AssemblyReference.cache
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe.config
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.csproj.CoreCompileInputs.cache
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto.8CC9EF0E.Up2Date
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.exe
+D:\repos\sci-2\Proyecto_SISCI\obj\Debug\Proyecto_SISCI.pdb

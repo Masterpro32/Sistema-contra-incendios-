@@ -18,7 +18,7 @@ namespace Sensores
             int cont = 1;
             foreach (int temporal in Reg)
             {
-                Console.BackgroundColor = ConsoleColor.DarkCyan;
+                Console.BackgroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine($"FECHA {fecha}");
                 Console.WriteLine($"REGISTRO DE TEMPERATURA ({cont}): {temporal}°C");
                 Console.ResetColor();
@@ -41,7 +41,7 @@ namespace Sensores
                 Console.WriteLine("");
                 Console.WriteLine("+--------------------------------------------------------------------+");
                 Console.WriteLine("|                SALA A DE TURBOGENERADORES - FENIX POWER            |");
-                Console.WriteLine("|   (S)                                                          (S) |");
+                Console.WriteLine("|                                                                    |");
                 Console.WriteLine("|=========|                                        |=================|");
                 Console.WriteLine("| ACCESO  |                                        |  TABLERO DE     |");
                 Console.WriteLine("| PERSONAL|                                        |  CONTROL (SCI)  |");
@@ -62,18 +62,20 @@ namespace Sensores
 
                 // Muestra siempre en la misma posición
                 Console.SetCursorPosition(0, 2);
-                Console.Write($"|Temperatura actual: {temperatura}°C                                 |");
+                Console.Write($"|Temperatura actual: {temperatura}°C    |  SENSOR DE HUMO: NORMAL   |");
 
                 // Guarda registro
-                Reg.Add(temperatura);
-
+                if (temperatura >= 40)
+                {
+                    Reg.Add(temperatura);
+                }
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
                     Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
+                    Console.WriteLine($" ⚠ ALARMA: EVACUAR INMEDIATAMENTE {temperatura}°C | SENSORES DE HUMO: ALERTA DE HUMO");
                     Console.ResetColor();
                     Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
                 }
@@ -126,45 +128,46 @@ namespace Sensores
             while (true)
             {
 
-                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("");
                 Console.WriteLine("");
                 Console.WriteLine("+--------------------------------------------------------------------+");
                 Console.WriteLine("|                SALA B DE TURBOGENERADORES - FENIX POWER            |");
-                Console.WriteLine("|   (S)                                                          (S) |");
-                Console.WriteLine("|=========|                                        |=================|");
-                Console.WriteLine("| ACCESO  |                                        |  TABLERO DE     |");
-                Console.WriteLine("| PERSONAL|                                        |  CONTROL (SCI)  |");
-                Console.WriteLine("|=========|                                        |=================|");
-                Console.WriteLine("|               +----------------------------+                       |");
-                Console.WriteLine("|               |      TURBO GENERADOR       |                       |");
-                Console.WriteLine("|               |          (TG-02)           |                       |");
-                Console.WriteLine("|               +----------------------------+                       |");
+                Console.WriteLine("|                                                                    |");
+                Console.WriteLine("|                 +----------------------------+                     |");
+                Console.WriteLine("|                 |     TURBO GENERADOR        |                     |");
+                Console.WriteLine("|                 |         (TG-02)            |                     |");
+                Console.WriteLine("|                 +----------------------------+                     |");
+                Console.WriteLine("|=================|                                    |=========|   |");
+                Console.WriteLine("| TABLERO DE      |                                    | ACCESO  |   |");
+                Console.WriteLine("| CONTROL (SCI)   |                                    | PERSONAL|   |");
+                Console.WriteLine("|=================|                                    |=========|   |");
                 Console.WriteLine("+--------------------------------------------------------------------+");
 
                 // Simula un cambio aleatorio de temperatura
                 int valorCambio = r.Next(-1, 6);
                 temperatura = temperatura + valorCambio;
-                if (temperatura < 15) 
+                if (temperatura < 15)
                 {
                     temperatura = 15; //Limita la temperatura por si disminuye demasiado
                 }
 
                 // Muestra siempre en la misma posición
                 Console.SetCursorPosition(0, 2);
-                Console.Write($"|Temperatura actual: {temperatura}°C                                 |");
+                Console.Write($"|Temperatura actual: {temperatura}°C    |  SENSOR DE HUMO: NORMAL   |");
 
                 // Guarda registro
-                Reg.Add(temperatura);
-
+                if (temperatura >= 40) 
+                { 
+                    Reg.Add(temperatura);
+                }
                 // Colores y alertas
                 if (temperatura >= 60)
                 {
                     Console.Clear();
                     Console.Beep(800, 300);
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine(" ⚠ ALARMA: EVACUAR INMEDIATAMENTE");
-                    Console.WriteLine("SENSORES DE HUMO ACTIVADOS")
+                    Console.WriteLine($" ⚠ ALARMA: EVACUAR INMEDIATAMENTE {temperatura}°C | SENSORES DE HUMO: ALERTA DE HUMO");
                     Console.ResetColor();
                     Console.WriteLine("Monitoreo de temperatura (presiona ESC para abrir menú)");
                 }

@@ -71,7 +71,7 @@ namespace Proyecto_SISCI
             Mapa_edificio MAP = new Mapa_edificio();
             MAP.Mapa_general();
             Console.WriteLine("Seleccione el sector que desea visualizar: ");
-            Console.WriteLine("(0) Volver al menú principal (1) Sector A (2) Sector B");
+            Console.WriteLine("(0) Volver al menú principal \n(1) Sector A \n(2) Sector B");
             int opcion1 = int.Parse(Console.ReadLine());
             switch (opcion1)
             {
@@ -104,7 +104,7 @@ namespace Proyecto_SISCI
             MAP.sectorA();
             SEN.SensorA();
             Console.WriteLine("Seleccione el sector que desea visualizar: ");
-            Console.WriteLine("(0)Regresar (1) Sensor A (2)Historial");
+            Console.WriteLine("(0)Regresar\n(1)Sensor A\n(2)Historial");
             int opcion = int.Parse(Console.ReadLine());
             switch (opcion)
             {
@@ -135,7 +135,7 @@ namespace Proyecto_SISCI
             MAP.sectorB();
             SEN.SensorB();
             Console.WriteLine("Seleccione el sector que desea visualizar: ");
-            Console.WriteLine("(0)Regresar (1) Sensor B (2)Historial");
+            Console.WriteLine("(0)Regresar\n(1)Sensor B\n(2)Historial");
             int opcion = int.Parse(Console.ReadLine());
             switch (opcion)
             {
@@ -163,7 +163,7 @@ namespace Proyecto_SISCI
             Sensores_edificio SEN = new Sensores_edificio();
             do
             { 
-            Console.WriteLine("Seleccione una opción: (0)Regresar (1)Borrar Historial");
+            Console.WriteLine("Seleccione una opción:\n(0)Regresar\n(1)Borrar Historial");
                 int opcion = int.Parse(Console.ReadLine());
                 switch (opcion) 
                 {
@@ -186,7 +186,7 @@ namespace Proyecto_SISCI
                 Sensores_edificio SEN = new Sensores_edificio();
                 do
                 {
-                    Console.WriteLine("Seleccione una opción: (0)Regresar (1)Borrar Historial");
+                    Console.WriteLine("Seleccione una opción:\n(0)Regresar\n(1)Borrar Historial");
                     int opcion = int.Parse(Console.ReadLine());
                     switch (opcion)
                     {
