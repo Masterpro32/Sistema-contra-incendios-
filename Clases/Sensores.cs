@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -70,7 +70,7 @@ namespace Sensores
                     Reg.Add(temperatura);
                 }
                 // Colores y alertas
-                if (temperatura >= 60)
+                if (temperatura >= 57)
                 {
                     Console.Clear();
                     Console.Beep(800, 300);
@@ -153,7 +153,7 @@ namespace Sensores
                     Reg.Add(temperatura);
                 }
                 // Colores y alertas
-                if (temperatura >= 60)
+                if (temperatura >= 57)
                 {
                     Console.Clear();
                     Console.Beep(800, 300);
